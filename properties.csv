@@ -1,0 +1,6 @@
+Type,floors,Size,Parking,Availability,Cost
+Business,2,100,20,Purchase,20000
+Warehouse,4,250,30,Lease,30000
+Office,3,500,10,Available,2000
+Shop,1,200,2,Purchase,1200
+Office,3,500,10,Available,2000
